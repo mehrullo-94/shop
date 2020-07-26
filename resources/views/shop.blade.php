@@ -8,7 +8,7 @@
                 <div class="card-header">{{ __('Dashboard') }}</div>
 
                 <div class="card-body">
-                <p>{{$adad ?? ' '}}</p>
+                
                 @if(count($shops)>0)
                 <table class="table">
                     <thead>
